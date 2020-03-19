@@ -1,0 +1,19 @@
+{
+  "name": "github_actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello world\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beautifulife/github_actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beautifulife/github_actions/issues"
+  },
+  "homepage": "https://github.com/beautifulife/github_actions#readme"
+}
